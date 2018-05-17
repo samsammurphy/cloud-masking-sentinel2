@@ -1,6 +1,6 @@
 ## Cloud masking of Sentinel 2 using Google Earth Engine
 
-Cloud, and shadow, masking of Sentinel 2 images using Google Earth Engine Python API. Refactored (and very slightly modified) from javascipt posted in the forum in this thread: [Sentinel 2 cloud masking](https://groups.google.com/forum/#!searchin/google-earth-engine-developers/cloud$20masking%7Csort:relevance/google-earth-engine-developers/i63DS-Dg8Sg/Kc0knF9BBgAJ).
+Cloud, and shadow, masking of Sentinel 2 images using Google Earth Engine Python API. Refactored from javascipt posted in the forum in this thread: [Sentinel 2 cloud masking](https://groups.google.com/forum/#!searchin/google-earth-engine-developers/cloud$20masking%7Csort:relevance/google-earth-engine-developers/i63DS-Dg8Sg/Kc0knF9BBgAJ).
 
 ### Dependencies
 
